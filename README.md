@@ -11,3 +11,9 @@ Activity 1:
 Activity 2:
 
 <img width="1127" alt="Screenshot 2023-09-21 at 4 21 22 PM" src="https://github.com/modhurimaroy/ECE444-F2023-Lab1/assets/65404767/6329f2d1-e7b9-42f5-82c0-c487650feeae">
+
+
+Activity 3:
+
+<img width="629" alt="Screenshot 2023-09-24 at 1 33 33 AM" src="https://github.com/modhurimaroy/ECE444-F2023-Lab1/assets/65404767/fc095b69-9878-4452-a4f0-ad041b543cca">
+
