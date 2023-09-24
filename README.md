@@ -19,18 +19,19 @@ Activity 3:
 
 Activity 4:
 
+This is the initial view when the website is first loaded:
 <img width="848" alt="Screenshot 2023-09-24 at 11 30 20 AM" src="https://github.com/modhurimaroy/ECE444-F2023-Lab1/assets/65404767/c086ccf6-1a8f-4869-9816-9881ebe4e1a8">
 
 
-
+This is after the name and correct uoft email address are entered:
 <img width="1079" alt="Screenshot 2023-09-24 at 11 32 12 AM" src="https://github.com/modhurimaroy/ECE444-F2023-Lab1/assets/65404767/83500b90-507e-4920-87f2-bc919ee33220">
 
 
-
+This is when an invalid email address is entered:
 <img width="894" alt="Screenshot 2023-09-24 at 12 50 44 PM" src="https://github.com/modhurimaroy/ECE444-F2023-Lab1/assets/65404767/6e4c1d31-d3d6-473a-b57c-6e1635bacac9">
 
 
-
+This is when a non-uoft email is entered:
 <img width="1054" alt="Screenshot 2023-09-24 at 4 21 10 PM" src="https://github.com/modhurimaroy/ECE444-F2023-Lab1/assets/65404767/d040c01d-1679-42f9-9bc6-d79cd7877a5c">
 
 
